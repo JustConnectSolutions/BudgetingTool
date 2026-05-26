@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "JCS Budgeting Tool",
+    "slug": "jcs-budgeting-tool",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#0D47A1"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0D47A1"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c6af9da4-940e-4d4b-a9fc-4e1b0b24f47b"
+      }
+    }
+  }
+}
