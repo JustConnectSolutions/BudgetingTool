@@ -18,7 +18,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0D47A1"
-      }
+      },
+      "package": "com.janicecoleen.jcsbudgetingtool"
     },
     "web": {
       "favicon": "./assets/favicon.png"
